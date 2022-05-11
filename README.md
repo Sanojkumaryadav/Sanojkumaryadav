@@ -1,4 +1,4 @@
-### Hi there 👋              Hi 👋, I'm Sanoj Kumar
+                             Hi 👋, I'm Sanoj Kumar
 
                           Aspiring Full Stack Web Developer
 
