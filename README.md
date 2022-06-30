@@ -10,12 +10,12 @@
 import SoftwareDeveloper from 'India';
 class Bio extends SoftwareDeveloper {
   name     = 'Sanoj Kumar';
-  title    = 'Software Engineer' || 'Full Stack Web Developer';
+  title    = 'React Developer' || 'Full Stack Web Developer';
   location = 'Bihar, India';
   availability = "Available to hire!!"
 }
 class Skills extends SoftwareDeveloper {
-  languages  = ['JavaScript', 'HTML', 'CSS', 'React Js', 'Redux', 'Node Js', 'MongoDB','Express Js'];
+  languages  = ['JavaScript','C++', 'Java' 'HTML', 'CSS', 'React Js', 'Redux', 'Node Js', 'MongoDB','Express Js'];
 }
 ```
 
