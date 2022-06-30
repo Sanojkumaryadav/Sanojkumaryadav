@@ -1,4 +1,4 @@
-<h1 align="center">Hi there <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="35" /> ~ I'm Sanoj <img width="33" bottom="-20" src="https://user-images.githubusercontent.com/97526754/173172254-697ba77e-bed8-4ffc-b1d1-2c20ede245b0.gif" /></h1>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="35" /> ~ I'm Sanoj <img width="33" bottom="-20" src="https://user-images.githubusercontent.com/97526754/173172254-697ba77e-bed8-4ffc-b1d1-2c20ede245b0.gif" /></h1>
 <br/>
  <div>
   <img width="50%"  src="https://github-readme-stats.vercel.app/api?username=sanojkumaryadav&show_icons=true&theme=gradient" />
