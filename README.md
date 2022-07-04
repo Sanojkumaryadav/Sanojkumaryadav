@@ -2,9 +2,9 @@
 <h3>A learner who is looking forward to work in IT world, Enthusiastic to learn new Technology and gain industry experience, with at most dedication for the organizational & personal growth.
 </h3>
 <br/>
- <div>
-  <img width="49%" height="200px"  src="https://github-readme-stats.vercel.app/api?username=sanojkumaryadav&show_icons=true&theme=gradient" />
-  <img width="49%" height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanojkumaryadav&layout=compact" />
+ <div display="flex">
+  <img width="48%" height="200px"  src="https://github-readme-stats.vercel.app/api?username=sanojkumaryadav&show_icons=true&theme=gradient" />
+  <img width="48%" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanojkumaryadav&layout=compact" />
 </div>
 <br/>
 
