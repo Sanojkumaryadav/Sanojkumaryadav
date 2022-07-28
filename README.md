@@ -14,7 +14,6 @@
   <img width="48%" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanojkumaryadav&layout=compact" />
 </div>
 <br/>
-
 ```js
 import SoftwareDeveloper from 'India';
 class Bio extends SoftwareDeveloper {
