@@ -2,12 +2,12 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=26&duration=3200&pause=900&color=3B82F6&center=true&vCenter=true&width=620&lines=Hi%2C+I'm+Sanoj+Kumar+%F0%9F%91%8B;iOS+%26+Flutter+Developer;Founder+of+CodeOrbit+Technologies;I+build+apps+people+actually+use" alt="Typing intro" />
 
-**SDE (iOS) at Es Magico Tech Studio** · **Founder, [CodeOrbit Technologies](https://codeorbitapp.com)**
+**SDE (iOS) at Es Magico Tech Studio** · **Founder, [CodeOrbit Technologies](https://codeorbitapp.com)**<br/>
 📍 Bhagalpur, Bihar, India
 
 <a href="https://linkedin.com/in/sanojcoder"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-<a href="https://codeorbitapp.com"><img src="https://img.shields.io/badge/CodeOrbit-0B1220?style=for-the-badge&logo=rocket&logoColor=3B82F6" alt="CodeOrbit" /></a>
-<a href="https://sanojkumar.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio" /></a>
+<a href="https://codeorbitapp.com"><img src="https://img.shields.io/badge/CodeOrbit-1E40AF?style=for-the-badge&logo=rocket&logoColor=white" alt="CodeOrbit" /></a>
+<a href="https://sanojkumar.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-7C3AED?style=for-the-badge&logo=netlify&logoColor=white" alt="Portfolio" /></a>
 <a href="https://wa.me/919973595208"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" /></a>
 
 </div>
