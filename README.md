@@ -16,13 +16,13 @@
 
 ### 👨‍💻 About me
 
-I'm a mobile developer who loves turning everyday problems into simple, fast apps — especially for people who are often left out of good software: small shopkeepers, local lenders and students preparing in Hindi.
+I'm a mobile developer who loves turning everyday problems into simple, fast and secure apps.
 
 - 📱 At **Es Magico** I build iOS (UIKit / SwiftUI) and Flutter apps end to end — including the **PeekUp** ride-hailing Rider & Driver apps with live tracking
 - 🤖 Bringing **AI into mobile apps** with LangChain + FastAPI
 - ⚙️ I own the release path too: **Fastlane, GitHub Actions, TestFlight, App Store Connect & Google Play**
 - 🚀 After hours I run **CodeOrbit Technologies**, shipping Flutter apps and web platforms
-- 🇮🇳 I care about **Hindi-first, offline-friendly** products that work on low-end phones and patchy internet
+- 🔐 **Security in every layer** — safe auth, encrypted data in transit and at rest, locked-down backend rules, no unnecessary permissions and careful handling of user data
 - 🤝 Open to collaborations, freelance app projects and interesting problems
 
 ---
@@ -31,8 +31,8 @@ I'm a mobile developer who loves turning everyday problems into simple, fast app
 
 | Product | What it is | Stack |
 | :--- | :--- | :--- |
-| 🧾 **[OrbitHisaab](https://hisaab.codeorbitapp.com)** | Udhaar / loan ledger for money lenders — EMI schedules, receipts, overdue alerts, Hindi PDFs, works offline | Flutter · Riverpod · Firebase |
-| 📚 **[CodeOrbit Learn](https://learn.codeorbitapp.com)** | Bilingual (Hindi + English) tutorials, exam notes and mock tests, with the **PrepOrbit** Android app | Next.js · Payload CMS · PostgreSQL · Flutter |
+| 🧾 **[OrbitHisaab](https://hisaab.codeorbitapp.com)** | Udhaar / loan ledger for money lenders — EMI schedules, receipts, overdue alerts and PDF statements | Flutter · Riverpod · Firebase |
+| 📚 **[CodeOrbit Learn](https://learn.codeorbitapp.com)** | Tutorials, exam notes and mock tests, with the **PrepOrbit** Android app | Next.js · Payload CMS · PostgreSQL · Flutter |
 | 🌐 **[CodeOrbit](https://codeorbitapp.com)** | My studio — mobile apps, websites and AI tools for startups and small businesses | React · Vite · Tailwind · Cloudflare |
 
 ---
@@ -50,6 +50,7 @@ I'm a mobile developer who loves turning everyday problems into simple, fast app
 | 💙 **Flutter** | Dart · GetX · BLoC · Provider · Riverpod · REST APIs |
 | 📡 **Real-time & maps** | WebSockets · Google Maps SDK · Google Fleet Engine (Driver & Consumer) · Firebase FCM & Crashlytics |
 | 🤖 **AI / LLM** | LangChain · FastAPI · OpenAI APIs · Prompt engineering |
+| 🔐 **Security** | Keychain & secure storage · Firebase security rules · OAuth sign-in & re-auth · HIPAA-aligned data handling · least-privilege permissions |
 | 🚢 **CI/CD & release** | Fastlane · GitHub Actions · TestFlight · App Store Connect · Google Play |
 | 🌐 **Web & other** | Node.js · MongoDB · React · Git · JIRA |
 
