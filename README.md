@@ -39,7 +39,7 @@ I'm a mobile developer who loves turning everyday problems into simple, fast app
 
 <p align="left">
   <b>Mobile</b><br/>
-  <img src="https://skillicons.dev/icons?i=swift,flutter,dart,androidstudio,xcode&theme=dark" alt="Mobile" />
+  <img src="https://skillicons.dev/icons?i=swift,flutter,dart,androidstudio,apple&theme=dark" alt="Mobile" />
 </p>
 <p align="left">
   <b>Web &amp; backend</b><br/>
@@ -56,10 +56,6 @@ I'm a mobile developer who loves turning everyday problems into simple, fast app
 
 ### 📊 GitHub activity
 
-<div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Sanojkumaryadav&show_icons=true&count_private=true&hide_border=true&theme=transparent&title_color=3B82F6&icon_color=3B82F6&text_color=8B949E" alt="GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sanojkumaryadav&layout=compact&hide_border=true&theme=transparent&title_color=3B82F6&text_color=8B949E&langs_count=8" alt="Top languages" />
-</div>
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=Sanojkumaryadav&hide_border=true&theme=transparent&ring=3B82F6&fire=F97316&currStreakLabel=3B82F6&sideLabels=8B949E&dates=8B949E&currStreakNum=8B949E&sideNums=8B949E" alt="GitHub streak" />
 </div>
